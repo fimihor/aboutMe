@@ -1,0 +1,29 @@
+body{
+    font-family: roboto,sans-serif;
+    background: #EEF5FF;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.about-me{
+    padding: 10px;
+}
+
+h4{
+    color: #EC8F5E;
+    font-weight: 600;
+    font-family: roboto;
+    font-size: 1.5rem;
+}
+
